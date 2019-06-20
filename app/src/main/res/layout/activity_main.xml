@@ -13,6 +13,7 @@
         android:fontFamily="casual"
         android:text="Masukkan Nama Depan"
         android:textSize="24sp"
+        android:background="@color/colorPrimary"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.075"
         app:layout_constraintLeft_toLeftOf="parent"
